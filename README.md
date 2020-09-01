@@ -2,7 +2,7 @@
 
 An opinionated [Terraform](https://www.terraform.io/) module to provision AWS resources for Gatsby using [S3](https://aws.amazon.com/s3/), [CloudFront](https://aws.amazon.com/cloudfront/), and [Route53](https://aws.amazon.com/route53/).
 
-A project by [Elastic Byte](https://elasticbyte.net). Built with :heart: in :guitar: Nashville.
+A project by [Hack Elite](https://elasticbyte.net). Built with :heart: in :guitar: Nashville.
 
 ## Prerequisites 
 
@@ -24,7 +24,7 @@ module "my_gatsby" {
 
 ## Support, Bugs, And Feature Requests
 
-Create issues here in GitHub (https://github.com/elasticbyte/terraform-gatsby-aws/issues).
+Create issues here in GitHub (https://github.com/AWS-Devops-Projects/terraform-gatsby-aws/issues).
 
 ## License & Legal
 
