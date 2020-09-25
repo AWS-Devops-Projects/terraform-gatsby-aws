@@ -19,6 +19,7 @@ resource "aws_s3_bucket" "bucket" {
 }
 EOF
 
+  
   website {
     index_document = "index.html"
     error_document = "404.html"
