@@ -1,3 +1,4 @@
+
 resource "aws_cloudfront_distribution" "cloudfront" {
   origin {
     domain_name = aws_s3_bucket.bucket.website_endpoint
