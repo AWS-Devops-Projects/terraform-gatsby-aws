@@ -9,6 +9,7 @@ resource "aws_route53_record" "dns" {
     zone_id                = aws_cloudfront_distribution.cloudfront.hosted_zone_id
   }
 
+  
   lifecycle {
     create_before_destroy = true
   }
