@@ -11,6 +11,7 @@ variable "default_ttl" {
   default     = 86400
 }
 
+
 variable "https_certificate_arn" {
   description = "A full ARN path to the ACM SSL certificate in us-east-1"
 }
