@@ -3,7 +3,7 @@
 
 An opinionated [Terraform](https://www.terraform.io/) module to provision AWS resources for Gatsby using [S3](https://aws.amazon.com/s3/), [CloudFront](https://aws.amazon.com/cloudfront/), and [Route53](https://aws.amazon.com/route53/).
 
-A project by [Hack Elite](https://elasticbyte.net). Built with :heart: in :guitar: Nashville.
+
 
 ## Prerequisites 
 
